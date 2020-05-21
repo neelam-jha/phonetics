@@ -1,0 +1,2 @@
+# phonetics
+phonetics simplified
